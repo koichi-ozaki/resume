@@ -35,14 +35,6 @@
   - TreasureData
   - R
 
-## 保持資格
-
-| 取得年月 |資格     |
-|:---------|:--------|
-| 2003/10  | 基本情報技術者 取得 |
-| 2004/05  | Oracle9i Fellow 取得 |
-| 2004/12  | Sun Certified Programmer for the Java 2 Platform 1.4 取得 |
-
 ## 学歴/職歴
 
 | 年月    |        |
@@ -111,3 +103,11 @@
     - メンバー3名
   - 既存ソーシャルゲームの改修
   - 新規タイトルの開発/運用
+
+## 保持資格
+
+| 取得年月 |資格     |
+|:---------|:--------|
+| 2003/10  | 基本情報技術者 取得 |
+| 2004/05  | Oracle9i Fellow 取得 |
+| 2004/12  | Sun Certified Programmer for the Java 2 Platform 1.4 取得 |
