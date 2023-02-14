@@ -2,39 +2,6 @@
 
 # 職務経歴
 
-## 保持技術
-
-- Webアプリケーション開発
-  - PHP
-    - フレームワーク
-      - Zend Framework
-      - Symfony
-  - Java
-    - Struts
-    - 独自フレームワーク（JSF、Spring、Hibernate）
-- フロントエンド
-  - HTML
-  - CSS
-  - JavaScript
-    - jQuery
-- スマートフォンアプリ開発
-  - Android
-    - Java
-    - Kotlin
-  - iOS
-    - Objective-C
-    - Swift
-- 基本的なDB操作
-  - MySQL
-  - PostgreSQL
-  - Oracle
-  - Sybase
-- アクセス解析・データ分析
-  - GoogleAnalytics
-  - Firebase
-  - TreasureData
-  - R
-
 ## 学歴/職歴
 
 | 年月    |        |
@@ -88,10 +55,35 @@
 
 
 
-## 保持資格
+## 保持技術
 
-| 取得年月 |資格     |
-|:---------|:--------|
-| 2003/10  | 基本情報技術者 取得 |
-| 2004/05  | Oracle9i Fellow 取得 |
-| 2004/12  | Sun Certified Programmer for the Java 2 Platform 1.4 取得 |
+- Webアプリケーション開発
+  - PHP
+    - フレームワーク
+      - Zend Framework
+      - Symfony
+  - Java
+    - Struts
+    - 独自フレームワーク（JSF、Spring、Hibernate）
+- フロントエンド
+  - HTML
+  - CSS
+  - JavaScript
+    - jQuery
+- スマートフォンアプリ開発
+  - Android
+    - Java
+    - Kotlin
+  - iOS
+    - Objective-C
+    - Swift
+- 基本的なDB操作
+  - MySQL
+  - PostgreSQL
+  - Oracle
+  - Sybase
+- アクセス解析・データ分析
+  - GoogleAnalytics
+  - Firebase
+  - TreasureData
+  - R
