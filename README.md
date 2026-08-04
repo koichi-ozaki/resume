@@ -127,7 +127,12 @@ Web システム開発 (PHP/Java) に約8年従事。要件定義・設計・開
 ## 社外発信
 
 - Qiita: [@koichi-ozaki](https://qiita.com/koichi-ozaki) にて技術記事 20本以上を公開 (TWA/aab の知見、targetSdk 対応、SVN→GitHub 移行手順、Google Play 課金実装など)
-  - 代表記事: [targetSdkVersion 33 対応でやったこと](https://qiita.com/koichi-ozaki/items/883427922399788632a7) / [fastlane によるリリース自動化と Slack 通知](https://qiita.com/koichi-ozaki/items/317ef8ea44899dad6ba2) / [Android アプリに定期購入を実装する](https://qiita.com/koichi-ozaki/items/7ac8c8135705867e8b14)
+  - 代表記事 (LGTM 上位):
+    - [fastlane によるリリース自動化と Slack 通知](https://qiita.com/koichi-ozaki/items/317ef8ea44899dad6ba2)
+    - [targetSdkVersion 33 対応でやったこと](https://qiita.com/koichi-ozaki/items/883427922399788632a7)
+    - [既存アプリ (apk) を Android App Bundle (aab) でアップロードできるようにする](https://qiita.com/koichi-ozaki/items/c515ba6711811aac44a2)
+    - [TypeScript (Angular) 製サイトを Android WebView (Kotlin) で動かす方法](https://qiita.com/koichi-ozaki/items/eaa73fbbc3b3d4cfbea5)
+    - [Android アプリに定期購入を実装する](https://qiita.com/koichi-ozaki/items/7ac8c8135705867e8b14)
 
 ---
 
