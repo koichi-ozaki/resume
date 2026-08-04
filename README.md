@@ -30,15 +30,13 @@
 
 | 分類 | 内容 |
 |------|------|
-| 言語 | Kotlin、Java、Swift、TypeScript、Dart、PHP、JavaScript |
-| Android | Jetpack Compose、MVVM、Dagger / DI、WorkManager、WebView / TWA、Android TV、targetSdk 対応 (〜36)、proguard / R8、Google Play Billing (サブスクリプション)、Health Connect API |
-| iOS | Swift / SwiftUI、Objective-C、Universal Links、NEHotspotConfiguration、App Store 申請・リジェクト対応 |
-| クロスプラットフォーム | Flutter / Dart / Riverpod |
-| Web / サーバー | Angular (PWA)、Node.js、Firebase 一式 (Firestore / Cloud Functions / FCM / RemoteConfig / Crashlytics)、API 設計 |
+| 主力 (Android) | Kotlin、Jetpack Compose、MVVM、Dagger / DI、WorkManager、WebView / TWA、Android TV、targetSdk 対応 (〜36)、proguard / R8、Google Play Billing (サブスクリプション)、Health Connect API、SDK 設計・JitPack 配布 |
+| 実務経験 (iOS) | Swift / SwiftUI、Objective-C、Universal Links、NEHotspotConfiguration、App Store 申請・リジェクト対応 |
+| 実務経験 (クロスプラットフォーム / Web / サーバー) | Flutter / Dart / Riverpod、Angular (PWA)、TypeScript、Node.js、Java、PHP、Firebase (Firestore / Cloud Functions / FCM / RemoteConfig / Crashlytics)、API 設計 |
 | テスト / CI/CD | Robolectric、MockK、Espresso、Firebase Test Lab、GitHub Actions、danger、fastlane、ktlint |
 | データ分析 | BigQuery、R (決定木分析)、Google Analytics / GA4、TreasureData |
 | セキュリティ | Web 脆弱性診断 (OWASP ZAP、Burp Suite)、MobSF によるアプリセキュリティ改善 |
-| その他 | 決済端末 SDK (stera)、広告 SDK 多数 (AdMob / AppLovin MAX 等のメディエーション)、Adjust、JitPack での SDK 配布、Claude Code / GitHub Copilot を活用した開発 |
+| その他 | 決済端末 SDK (stera)、広告 SDK メディエーション (AdMob / AppLovin MAX 等)、Adjust、Claude Code / GitHub Copilot を前提とした開発フロー |
 
 ---
 
@@ -124,7 +122,8 @@ Web システム開発 (PHP/Java) に約8年従事。要件定義・設計・開
 
 ## 社外発信
 
-- Qiita (koichi-ozaki) にて技術記事 20本以上を公開 (TWA/aab の知見、targetSdk 対応、SVN→GitHub 移行手順、Google Play 課金実装など)
+- Qiita: [@koichi-ozaki](https://qiita.com/koichi-ozaki) にて技術記事 20本以上を公開 (TWA/aab の知見、targetSdk 対応、SVN→GitHub 移行手順、Google Play 課金実装など)
+  - 代表記事: [targetSdkVersion 33 対応でやったこと](https://qiita.com/koichi-ozaki/items/883427922399788632a7) / [fastlane によるリリース自動化と Slack 通知](https://qiita.com/koichi-ozaki/items/317ef8ea44899dad6ba2) / [Android アプリに定期購入を実装する](https://qiita.com/koichi-ozaki/items/7ac8c8135705867e8b14)
 
 ---
 
@@ -144,6 +143,13 @@ SDK 開発、決済端末アプリ、Android TV、Flutter、脆弱性診断—�
 
 ---
 
+## 希望職種
+
+- Android を軸としたモバイルアプリエンジニア / モバイルテックリード
+- プレイングとして設計・実装を担いながら、CI/CD・テスト・リリースの仕組みづくりやペアプロによる技術移転でチームの成果を高める役割を志向
+
+---
+
 ## 学歴
 
 - 2000年4月〜2003年3月 福岡市立福翔高等学校 総合学科
@@ -152,7 +158,5 @@ SDK 開発、決済端末アプリ、Android TV、Flutter、脆弱性診断—�
 ## 資格
 
 - 基本情報技術者試験
-- ITパスポート
 - Oracle9i Fellow
 - Sun Certified Programmer for the Java 2 Platform
-- 普通自動車免許
